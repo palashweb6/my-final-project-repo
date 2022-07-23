@@ -1,4 +1,51 @@
-.messi{
-    
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
 
+h1 {
+    font-size: 30px;
+}
+
+#color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.edit {
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.design {
+    width: 40%;
+    padding-left: 2%;
+    top: 3%;
+}
+
+h3 {
+    color: darkred;
+}
+
+#button {
+    background-color: orange;
+    padding: 1%;
+    text-decoration: none;
+    border-radius: 5%;
+    background-image: linear-gradient(orange, tomato);
+    color: wheat;
+    font: 700;
+}
+
+.banner {
+    background-image: url(top.png);
+    background-repeat: no-repeat;
+}
+
+div {
+    background-color: rgb(99, 99, 86);
 }
