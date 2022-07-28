@@ -11,8 +11,10 @@ h1 {
     color: orange;
 }
 
-section {
+.banner {
     display: flex;
+    background-image: url(top.png);
+    background-repeat: no-repeat;
 }
 
 .edit {
@@ -25,6 +27,7 @@ section {
     width: 40%;
     padding-left: 2%;
     top: 3%;
+
 }
 
 h3 {
@@ -41,11 +44,55 @@ h3 {
     font: 700;
 }
 
-.banner {
-    background-image: url(top.png);
-    background-repeat: no-repeat;
+
+#second {
+    display: flex;
+
 }
 
-div {
-    background-color: rgb(99, 99, 86);
+#two {
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+#one {
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#three {
+    color:black;
+
+}
+
+    {
+    color: 
+}
+
+#fore {
+    color: tomato;
+}
+
+#five {
+    color:orange;;
+}
+
+#six {
+    background-color: orange;
+    padding: 1%;
+    text-decoration: none;
+    border-radius: 5%;
+    background-image: linear-gradient(orange, tomato);
+    color: wheat;
+    font: 700;
+}
+
+p {
+    color: blue;
 }
