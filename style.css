@@ -67,12 +67,12 @@ h1 {
 }
 
 #three {
-    color:black;
+    color: black;
 
 }
 
     {
-    color: 
+    color:
 }
 
 #fore {
@@ -80,7 +80,8 @@ h1 {
 }
 
 #five {
-    color:orange;;
+    color: orange;
+    ;
 }
 
 #six {
@@ -95,4 +96,58 @@ h1 {
 
 p {
     color: blue;
+}
+
+#ticket {
+    display: flex;
+    background-image:url(test/dream-bg.png);
+    background-repeat: no-repeat;
+    
+}
+
+#online {
+    width: 1300px%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px green;
+    width: 600px;
+    margin-left:5%;
+    margin-right:5%;
+    
+    padding: 20px;
+    border-radius:10px;
+    
+}
+.web{
+    border-left:7px solid blue;
+}
+.developer{
+    border-left:7px solid tomato;
+}
+footer p{
+    text-align: center;
+}
+
+.new {
+    color: orangered;
+}
+
+.pen {
+    color: blueviolet;
+    font-size: 40px;
+}
+
+#off {
+    color: orangered;
+    font-size: 40px;
+}
+
+#on {
+    color: crimson;
+}
+
+.tonmoy {
+    color: blue;
+}
+#mithu{
+    margin-right: 5px;
 }
